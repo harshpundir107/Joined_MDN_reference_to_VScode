@@ -1,0 +1,1 @@
+{"name":"Local: extension","url":"c:\\Users\\lenovo\\Desktop\\project\\mdn-doc-search\\extension.js","tests":[{"id":1784830953024,"input":"const","output":""},{"id":1784831036878,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\project\\mdn-doc-search\\extension.js","group":"local","local":true}
